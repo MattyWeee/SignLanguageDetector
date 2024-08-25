@@ -10,4 +10,6 @@ Note:
     by creating a folder(s) to store data, setting the appropriate folder variable on line 13, and pressing 
     s to collect data using your webcam.
 
+    Also, I trained the model using my left hand, so if you wish to use a different hand, you will have to train your own model.
+
 
